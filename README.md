@@ -1,8 +1,6 @@
 # Threads App
 
-Build a full stack Threads clone using Next.js 14+ with a redesigned look transformed from a Figma design, user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time search, and more.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+Build a full stack Threads clone using Next.js 14 with user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time search, and more.
 
 ## Technologies Used
 
