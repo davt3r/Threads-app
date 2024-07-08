@@ -43,8 +43,6 @@ Build a full stack Threads clone using Next.js 14 with user interaction to commu
 
 👉 **Community Profiles**: Display community profiles showcasing threads and members for a comprehensive overview.
 
-👉 **Figma Design Implementation**: Transform Figma designs into a fully functional application with pixel-perfect and responsive design.
-
 👉 **Blazing-Fast Performance**: Optimal performance and instantaneous page switching for a seamless user experience.
 
 👉 **Server Side Rendering**: Utilize Next.js with Server Side Rendering for enhanced performance and SEO benefits.
@@ -58,8 +56,6 @@ Build a full stack Threads clone using Next.js 14 with user interaction to commu
 👉 **Middleware, API Actions, and Authorization**: Utilize middleware, API actions, and authorization for robust application security.
 
 👉 **Next.js Layout Route Groups**: New Next.js layout route groups for efficient routing.
-
-👉 **Data Validation with Zod**: Data integrity with data validation using Zod.
 
 👉 **Form Management with React Hook Form**: Efficient management of forms with React Hook Form for a streamlined user input experience.
 
