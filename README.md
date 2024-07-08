@@ -5,14 +5,12 @@ Build a full stack Threads clone using Next.js 14 with user interaction to commu
 ## Technologies Used
 
 - **Next.js**
+- **React.js**
 - **MongoDB**
-- **Shadcn UI**
 - **TailwindCSS**
 - **Clerk**
 - **Webhooks**
-- **Serverless APIs**
 - **React Hook Form**
-- **Zod**
 - **TypeScript**
 
 ## Features
